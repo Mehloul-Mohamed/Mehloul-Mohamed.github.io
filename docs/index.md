@@ -12,5 +12,7 @@ hero:
 features:
   - title: Introduction
     link: ./introduction.md
+  - title: 2024 Week 1
+    link: ./2024-week1.md
 ---
 
